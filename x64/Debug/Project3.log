@@ -1,0 +1,9 @@
+﻿  Project3.cpp
+C:\Users\Keegan\Desktop\UF\Previous Semesters\Other Programming Files\Project3\Project3.cpp(1,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Random.cpp
+C:\Users\Keegan\Desktop\UF\Previous Semesters\Other Programming Files\Project3\Random.cpp(4,33): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  TextureManager.cpp
+C:\Users\Keegan\Desktop\UF\Previous Semesters\Other Programming Files\Project3\TextureManager.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  TileData.cpp
+C:\Users\Keegan\Desktop\UF\Previous Semesters\Other Programming Files\Project3\TileData.cpp(26,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
